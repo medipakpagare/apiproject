@@ -9,7 +9,7 @@ body{
 display: flex;flex-direction: column;background-color:orangered;
 }
 .header{
-line-height: 12rem;position: fixed;right:0;left: 0;box-shadow: 0 .5px 3rem .5px black;background-color: white;
+line-height: 12rem;position: fixed;right:0;left: 0;box-shadow: 0 .5px 3rem .5px black;background-color: black;
 }
 .header .logo{
     height: 5rem;top: .5rem;position: relative;right: 1rem;
